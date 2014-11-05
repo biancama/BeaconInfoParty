@@ -1,9 +1,5 @@
 ## Overview
-
-This is an Eclipse reference app for the Android Beacon Library supporting AltBeacon compatible devices
-
-If you are looking for an AndroidStudio reference project, see the android-studio branch.
-
+Simple application for scanning beacons
 ## Project Setup
 
 1. Install Eclipse with the ADT plugin
