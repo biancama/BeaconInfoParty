@@ -1,0 +1,15 @@
+<resources>
+
+ <string name="app_name">Beacon Info</string>
+    <string name="dummy_button">Register</string>
+    <string name="dummy_content">Register</string>
+    <string name="name">Name</string>
+    <string name="company">Company</string>
+    <string name="relation">Relation with Info.nl</string>
+    <string name="scanbeaconbutton">Scan beacon</string>
+    		<string name="employee">employee</string>
+		<string name="former_employee">former employee</string>
+		<string name="customer">customer</string>
+		<string name="vendor">vendor</string>
+		<string name="other">other</string>
+</resources>
